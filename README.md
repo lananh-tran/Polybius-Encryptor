@@ -28,5 +28,6 @@ The initial solution for encrypting a text based on the Polybius square is provi
 
 If you want to examine the encryption process, and how the coordinate sequence changes as the program runs, you can delete the '#' at the beginning of lines 90, 92, 97, and 99 in the Python code.
 
+![image](terminal.png)
 
 For more details on this program's underlying concepts and calculations, see [Documentation](Documentation.md).
