@@ -22,7 +22,7 @@ The initial solution for encrypting a text based on the Polybius square is provi
 
 3. Run the program using the command:
 
-```py polybiusEncryptor.py```
+   ```py polybiusEncryptor.py```
 
 4. Enter the text you wish to encrypt.
 
