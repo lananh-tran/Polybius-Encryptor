@@ -12,7 +12,7 @@ This is a Python program capable of encrypting and decrypting a console input te
 
 ### Acknowledgement
 
-The initial solution for encrypting a text based on the Polybius square is provided by [AstroDestroyer146](https://youtu.be/wVC41DOnfZU). I added my own modification for the Polybius cube encryption and the solution for the decryption of an encrypted text.
+The initial solution for encrypting a text based on the Polybius square was provided by [AstroDestroyer146](https://youtu.be/wVC41DOnfZU). I added my own modification for the Polybius cube encryption and the solution for the decryption of an encrypted text.
 
 ## Installation
 
