@@ -1,5 +1,3 @@
-(in progress)
-
 # Background
 
 The following information is directly copied from [Wikipedia](https://en.wikipedia.org/wiki/Polybius_square).
