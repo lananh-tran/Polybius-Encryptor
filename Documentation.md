@@ -4,6 +4,8 @@
 
 The following information is directly copied from [Wikipedia - Polybius square](https://en.wikipedia.org/wiki/Polybius_square).
 
+This is a typical form of a 5x5 Polybius square:
+
 ![ảnh](https://github.com/lananh-tran/Polybius-Encryptor/assets/118518981/91187f86-12ba-4152-b907-b368fc5a6f13)
 
 The message is transformed into coordinates on the Polybius square, and the coordinates are recorded vertically:
