@@ -66,7 +66,6 @@ def coordDecrypt(encrptSequnc):
 
   return prcssdSequnc
 
-
 # extract new coordinates and turn them into text
 def coordToText(sequnc):
   text = ""
